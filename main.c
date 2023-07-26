@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * main – welcome point
- * @ac: count
- * @av: vector
+ * main - duelist
+ * @ac: arg
+ * @av: arg 
  *
  * Return: 0 or 1
  */
