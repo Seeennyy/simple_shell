@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * get_history_file - file of the history 
+ * get_history_file - file of the history
  * @info: struct
  *
  * Return: string allocator

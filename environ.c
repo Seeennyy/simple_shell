@@ -12,7 +12,7 @@ int _myenv(info_t *info)
 }
 
 /**
- * _getenv - gets the value 
+ * _getenv - gets the value
  * @info: Structure to maintain
  * @name: name
 * Return: value
@@ -50,7 +50,7 @@ int _mysetenv(info_t *info)
 }
 
 /**
- * _myunsetenv - Remover 
+ * _myunsetenv - Remover
  * @info: Structure maintain function prototype.
  * Return: 0
  */
