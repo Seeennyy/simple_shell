@@ -2,7 +2,7 @@
 
 /**
  * interactive – shows the interactive mode
- * @info: addre
+ * @info: addreeee
 * Return: 1 on succ or 0. 
  */
 int interactive(info_t *info)
