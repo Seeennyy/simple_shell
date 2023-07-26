@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * **strtow - spliter
+ * **strtow - spliterrrr
  * @str: the input
  * @d: the delimeter
  * Return: a pointer
